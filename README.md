@@ -1,6 +1,9 @@
 # Visualizacion-de-datos-con-Power-BI-2
 Diseño de Dashboards.
 
+# Publicación de Dashboards
+https://app.powerbi.com/groups/me/list?redirectedFromSignup=1&experience=power-bi
+
 ## Diseño de Dashboards en Power BI
 Descripción del Proyecto
 Este proyecto se centra en el diseño y personalización de Dashboards en Power BI, incluyendo la creación de temas personalizados, diseño adaptado para dispositivos móviles, y menús interactivos con íconos o botones personalizados. 
